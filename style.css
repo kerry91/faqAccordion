@@ -133,7 +133,15 @@ color: hsl(237, 12%, 33%);
       width:110px;
       height: 110px;
       position: absolute;
-      top: 20%;
-      left: -9%;
+      top: 4%;
+      left: -3%;
+  }
+  #bg-pattern{
+    width:75%;
+    height:55%;
+    position: absolute;
+    margin-top: -52%;
+    margin-left: 13%;
+    z-index: 1;
   }
 }
